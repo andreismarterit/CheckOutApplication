@@ -1,0 +1,15 @@
+--init
+dotnet tool install --global dotnet-ef
+
+--initial create
+dotnet-ef migrations add InitialCreate --project CheckOut.DataAccess --startup-project CheckOut.WebApi --context CheckOutDbContext --configuration --verbose
+
+--ef update database
+dotnet ef database update --project CheckOut.DataAccess --startup-project CheckOut.WebApi --context CheckOutDbContext --configuration --verbose
+
+--add new migration
+dotnet-ef migrations add FileNameChange --project CheckOut.DataAccess --startup-project CheckOut.WebApi --context CheckOutDbContext --configuration --verbose
+
+--ef undo last migration
+dotnet ef database update <previous-migration-name> --project CheckOut.DataAccess --startup-project CheckOut.WebApi --context CheckOutDbContext --configuration --verbose
+dotnet ef migrations remove --project CheckOut.DataAccess --startup-project CheckOut.WebApi --context CheckOutDbContext --configuration --verbose

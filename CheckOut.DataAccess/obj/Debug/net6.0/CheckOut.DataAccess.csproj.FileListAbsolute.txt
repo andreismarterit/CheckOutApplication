@@ -1,0 +1,15 @@
+C:\Work\SmarterIT\interview\CheckOut.DataAccess\obj\Debug\net6.0\CheckOut.DataAccess.csproj.AssemblyReference.cache
+C:\Work\SmarterIT\interview\CheckOut.DataAccess\obj\Debug\net6.0\CheckOut.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\SmarterIT\interview\CheckOut.DataAccess\obj\Debug\net6.0\CheckOut.DataAccess.AssemblyInfoInputs.cache
+C:\Work\SmarterIT\interview\CheckOut.DataAccess\obj\Debug\net6.0\CheckOut.DataAccess.AssemblyInfo.cs
+C:\Work\SmarterIT\interview\CheckOut.DataAccess\obj\Debug\net6.0\CheckOut.DataAccess.csproj.CoreCompileInputs.cache
+C:\Work\SmarterIT\interview\CheckOut.DataAccess\bin\Debug\net6.0\CheckOut.DataAccess.deps.json
+C:\Work\SmarterIT\interview\CheckOut.DataAccess\bin\Debug\net6.0\CheckOut.DataAccess.dll
+C:\Work\SmarterIT\interview\CheckOut.DataAccess\bin\Debug\net6.0\CheckOut.DataAccess.pdb
+C:\Work\SmarterIT\interview\CheckOut.DataAccess\obj\Debug\net6.0\CheckOut.DataAccess.dll
+C:\Work\SmarterIT\interview\CheckOut.DataAccess\obj\Debug\net6.0\refint\CheckOut.DataAccess.dll
+C:\Work\SmarterIT\interview\CheckOut.DataAccess\obj\Debug\net6.0\CheckOut.DataAccess.pdb
+C:\Work\SmarterIT\interview\CheckOut.DataAccess\obj\Debug\net6.0\ref\CheckOut.DataAccess.dll
+C:\Work\SmarterIT\interview\CheckOut.DataAccess\bin\Debug\net6.0\CheckOut.Infrastructure.dll
+C:\Work\SmarterIT\interview\CheckOut.DataAccess\bin\Debug\net6.0\CheckOut.Infrastructure.pdb
+C:\Work\SmarterIT\interview\CheckOut.DataAccess\obj\Debug\net6.0\CheckOut.DataAccess.csproj.CopyComplete

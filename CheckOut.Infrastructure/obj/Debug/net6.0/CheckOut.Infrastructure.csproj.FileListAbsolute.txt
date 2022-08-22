@@ -1,0 +1,12 @@
+C:\Work\SmarterIT\interview\CheckOut.Infrastructure\obj\Debug\net6.0\CheckOut.Infrastructure.csproj.AssemblyReference.cache
+C:\Work\SmarterIT\interview\CheckOut.Infrastructure\obj\Debug\net6.0\CheckOut.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\SmarterIT\interview\CheckOut.Infrastructure\obj\Debug\net6.0\CheckOut.Infrastructure.AssemblyInfoInputs.cache
+C:\Work\SmarterIT\interview\CheckOut.Infrastructure\obj\Debug\net6.0\CheckOut.Infrastructure.AssemblyInfo.cs
+C:\Work\SmarterIT\interview\CheckOut.Infrastructure\obj\Debug\net6.0\CheckOut.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Work\SmarterIT\interview\CheckOut.Infrastructure\bin\Debug\net6.0\CheckOut.Infrastructure.deps.json
+C:\Work\SmarterIT\interview\CheckOut.Infrastructure\bin\Debug\net6.0\CheckOut.Infrastructure.dll
+C:\Work\SmarterIT\interview\CheckOut.Infrastructure\bin\Debug\net6.0\CheckOut.Infrastructure.pdb
+C:\Work\SmarterIT\interview\CheckOut.Infrastructure\obj\Debug\net6.0\CheckOut.Infrastructure.dll
+C:\Work\SmarterIT\interview\CheckOut.Infrastructure\obj\Debug\net6.0\refint\CheckOut.Infrastructure.dll
+C:\Work\SmarterIT\interview\CheckOut.Infrastructure\obj\Debug\net6.0\CheckOut.Infrastructure.pdb
+C:\Work\SmarterIT\interview\CheckOut.Infrastructure\obj\Debug\net6.0\ref\CheckOut.Infrastructure.dll

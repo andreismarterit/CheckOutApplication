@@ -1,0 +1,17 @@
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\bin\--verbose\net6.0\CheckOut.BusinsessLogic.deps.json
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\bin\--verbose\net6.0\CheckOut.BusinsessLogic.dll
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\bin\--verbose\net6.0\CheckOut.BusinsessLogic.pdb
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\bin\--verbose\net6.0\CheckOut.DataAccess.dll
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\bin\--verbose\net6.0\CheckOut.Infrastructure.dll
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\bin\--verbose\net6.0\CheckOut.DataAccess.pdb
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\bin\--verbose\net6.0\CheckOut.Infrastructure.pdb
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\obj\--verbose\net6.0\CheckOut.BusinsessLogic.csproj.AssemblyReference.cache
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\obj\--verbose\net6.0\CheckOut.BusinsessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\obj\--verbose\net6.0\CheckOut.BusinsessLogic.AssemblyInfoInputs.cache
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\obj\--verbose\net6.0\CheckOut.BusinsessLogic.AssemblyInfo.cs
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\obj\--verbose\net6.0\CheckOut.BusinsessLogic.csproj.CoreCompileInputs.cache
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\obj\--verbose\net6.0\CheckOut.BusinsessLogic.csproj.CopyComplete
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\obj\--verbose\net6.0\CheckOut.BusinsessLogic.dll
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\obj\--verbose\net6.0\refint\CheckOut.BusinsessLogic.dll
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\obj\--verbose\net6.0\CheckOut.BusinsessLogic.pdb
+C:\Work\SmarterIT\interview\CheckOut.BusinsessLogic\obj\--verbose\net6.0\ref\CheckOut.BusinsessLogic.dll
